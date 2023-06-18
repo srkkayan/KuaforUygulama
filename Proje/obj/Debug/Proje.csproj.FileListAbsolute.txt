@@ -1,0 +1,30 @@
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.Form5.resources
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\obj\Debug\Proje.pdb
+C:\Users\Serkan\Desktop\Özcan Ay\Proje\Proje\bin\Debug\projedb.accdb
+C:\Users\Serkan\Desktop\Proje\Proje\bin\Debug\projedb.accdb
+C:\Users\Serkan\Desktop\Proje\Proje\bin\Debug\Proje.exe.config
+C:\Users\Serkan\Desktop\Proje\Proje\bin\Debug\Proje.exe
+C:\Users\Serkan\Desktop\Proje\Proje\bin\Debug\Proje.pdb
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.Form1.resources
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.Form2.resources
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.Form3.resources
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.Form4.resources
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.Form5.resources
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.exe
+C:\Users\Serkan\Desktop\Proje\Proje\obj\Debug\Proje.pdb
